@@ -184,21 +184,21 @@ export const agents = [
 export const testimonials = [
   {
     quote:
-      "Working with Aurum was an absolute dream. They found us our forever home in just two weeks. The level of service was unlike anything we had experienced before.",
+      "Working with Guardian was an absolute dream. They found us our forever home in just two weeks. The level of service was unlike anything we had experienced before.",
     name: "The Johnson Family",
     detail: "Purchased: $3.8M Estate, Beverly Hills",
     closed: "Closed June 2024",
   },
   {
     quote:
-      "Aurum's concierge team went above and beyond. From the private jet tours to the bespoke negotiations, every detail was handled with extraordinary care.",
+      "Guardian's concierge team went above and beyond. From the private jet tours to the bespoke negotiations, every detail was handled with extraordinary care.",
     name: "Mr. & Mrs. Vandermeer",
     detail: "Purchased: $6.2M Penthouse, Manhattan",
     closed: "Closed March 2024",
   },
   {
     quote:
-      "Selling our estate through Aurum fetched eighteen percent above asking. Their global network of ultra-high-net-worth buyers is simply unmatched in the industry.",
+      "Selling our estate through Guardian fetched eighteen percent above asking. Their global network of ultra-high-net-worth buyers is simply unmatched in the industry.",
     name: "Sir Edmund Blackwood",
     detail: "Sold: $11.5M Country Estate, Surrey",
     closed: "Closed August 2024",
