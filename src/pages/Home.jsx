@@ -10,6 +10,8 @@ import CardGridSkeleton from "../components/CardGridSkeleton";
 import PageTransition from "../components/PageTransition";
 import { useProperties } from "../hooks/useApiData";
 import { useSaved } from "../hooks/useSavedContext";
+import aboutDiscretion1 from '../images/about-discretion-1.jpg';
+import aboutDiscretion2 from '../images/about-discretion-2.jpg';
 
 export default function Home() {
   const { data: properties, loading } = useProperties();
@@ -95,14 +97,14 @@ export default function Home() {
           >
             <div className="aspect-3/4 border border-hairline overflow-hidden">
               <PropertyImage
-                image="./src/images/about-discretion-1.jpg"
+                image= {aboutDiscretion1}
                 art={{ variant: "dusk", seed: 11 }}
                 className="w-full h-full"
               />
             </div>
             <div className="aspect-3/4 border border-hairline overflow-hidden mt-8">
               <PropertyImage
-                image="./src/images/about-discretion-2.jpg"
+                image= {aboutDiscretion2}
                 art={{ variant: "amber", seed: 12 }}
                 className="w-full h-full"
               />

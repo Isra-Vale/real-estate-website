@@ -4,6 +4,7 @@ import { ArrowRight } from "lucide-react";
 import PropertyImage from "../components/PropertyImage";
 import Stats from "../components/Stats";
 import PageTransition from "../components/PageTransition";
+import aboutBanner from '../images/about-banner.png';
 
 const values = [
   {
@@ -51,7 +52,7 @@ export default function About() {
           className="h-[40vh] min-h-90 my-16 mx-6 lg:mx-10 overflow-hidden"
         >
           <PropertyImage
-            image="./src/images/about-banner.png"
+            image = {aboutBanner}
             art={{ variant: "noon", seed: 31 }}
             className="w-full h-full"
             label="The Guardian team"
