@@ -36,7 +36,7 @@ export default function About() {
               Built on Relationships, Not Listings
             </h1>
             <p className="text-slate mt-6 max-w-2xl mx-auto leading-relaxed">
-              Aurum began as a three-person team representing a handful of
+              Guardian began as a three-person team representing a handful of
               estates in the Hamptons. Today we work across six countries,
               but the model hasn't changed: small teams, deep relationships,
               and access most buyers never see.
